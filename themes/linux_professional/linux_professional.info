@@ -1,0 +1,40 @@
+screenshot  = screenshot.png
+name        = linux professional
+description = linux professional 
+core        = 7.x
+project = "linux professional"
+
+stylesheets[all][] = css/font-awesome.min.css
+stylesheets[all][] = css/bootstrap.css
+stylesheets[all][] = css/font.css
+stylesheets[all][] = css/style.css
+stylesheets[all][] = css/responsive.css
+stylesheets[all][] = css/custom.css
+;Adding java scripts
+
+scripts[] = js/custom.js
+
+
+
+
+; This section lists the regions 
+regions[search_bar] = Search bar
+regions[main_menu] = Main menu
+regions[slider] = Slider
+regions[services] = Home services
+regions[home_about] = Home about
+regions[client1] = Home client1
+regions[client2] = Home client2
+regions[footer_links] = footer links
+regions[follow_us] = Follow us
+regions[our_office] = Our office
+regions[footer] = footer
+regions[content] = Content
+regions[sidebar_first] = Sidebar first
+regions[sidebar_second] = Sidebar second
+regions[banner] = Banner
+regions[content_file] = Content file
+
+
+
+
